@@ -58,11 +58,4 @@ function numberToString(num) {
 console.log(numberToString(123));
 ```
 
-### Kata List
 
-Jumlah Kata yang diselesaikan
-
-| Bahasa                                                                         | Jumlah |
-| ------------------------------------------------------------------------------ | ------ |
-| [Javascript](https://github.com/muhammadghifar/codewars-progress/tree/main/JS) | 19     |
-| [Typescript](https://github.com/muhammadghifar/codewars-progress/tree/main/TS) | 4      |
